@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IBAboutMe/IbAboutMe.unity
+    guid: 11a3621990c856c4d9633e8976cf1937
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 8cfd58c306b29bd4082a1834c4582e40, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 6acac5aa24970084ca8e8fb8a5ee9beb, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 9d5b12cb0d25bb643bb06399b304384f, type: 2}
+  m_UseUCBPForAssetBundles: 0
